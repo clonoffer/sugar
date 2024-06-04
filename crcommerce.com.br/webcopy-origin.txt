@@ -1,0 +1,40 @@
+Uri: https://crcommerce.com.br/comments/feed/
+File Name: C:\Downloaded Web Sites\crcommerce.com.br\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://crcommerce.com.br/feed/
+File Name: C:\Downloaded Web Sites\crcommerce.com.br\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://crcommerce.com.br/sugar-defender-offer/
+File Name: C:\Downloaded Web Sites\crcommerce.com.br\sugar-defender-offer\index.htm
+Content Type: text/html
+
+Uri: https://crcommerce.com.br/wp-content/litespeed/css/e9a23d1a78fd853fc12cd94c2e5def0f.css?ver=6bb28
+File Name: C:\Downloaded Web Sites\crcommerce.com.br\wp-content\litespeed\css\e9a23d1a78fd853fc12cd94c2e5def0f.css
+Content Type: text/css
+
+Uri: https://crcommerce.com.br/wp-json/
+File Name: C:\Downloaded Web Sites\crcommerce.com.br\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://crcommerce.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrcommerce.com.br%2Fsugar-defender-offer%2F
+File Name: C:\Downloaded Web Sites\crcommerce.com.br\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://crcommerce.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrcommerce.com.br%2Fsugar-defender-offer%2F&format=xml
+File Name: C:\Downloaded Web Sites\crcommerce.com.br\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://crcommerce.com.br/wp-json/wp/v2/pages/5306
+File Name: C:\Downloaded Web Sites\crcommerce.com.br\wp-json\wp\v2\pages\5306
+Content Type: application/json
+
+Uri: https://crcommerce.com.br/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\crcommerce.com.br\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.facebook.com/tr?id=2462851173886265&ev=PageView&noscript=1&cd[page_title]=Sugar+Defender+Offer&cd[post_type]=page&cd[post_id]=5306&cd[plugin]=PixelYourSite&cd[user_role]=guest&cd[event_url]=crcommerce.com.br%2Fsugar-defender-offer%2F
+File Name: C:\Downloaded Web Sites\crcommerce.com.br\tr
+Content Type: text/plain
+
